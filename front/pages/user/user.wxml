@@ -52,7 +52,7 @@
     <view class="item">
       <navigator url="../qyzz/qyzz" class="a">
         <text class="icon security"></text>
-        <text class="txt">多多资质</text>
+        <text class="txt">企业资质</text>
       </navigator>
     </view>
     <view class="item no-border">
@@ -93,5 +93,5 @@
     </view>
   </view>
 
-<view class="logout" bindtap="exitLogin">多多严选版权所有</view>
+<!-- <view class="logout" bindtap="exitLogin">多多严选版权所有</view> -->
 </view>
