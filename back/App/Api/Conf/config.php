@@ -30,8 +30,8 @@ return array(
 	'TMPL_ACTION_SUCCESS'   =>  'Public/success',
 
     'weixin'=>array(
-        'appid' =>'wx381556a7d2197b3a',//微信小程序appid
-        'secret'=>'8b6947f83b2f2c90136bbf34fab09aef', //微信小程序secret
+        'appid' =>'',//微信小程序appid
+        'secret'=>'', //微信小程序secret
         'mchid' => '',//小程序支付商户号
         'key' => '',//小程序支付KEY
         'notify_url'=>'http://www.wxapp.com/index.php/Api/Wxpay/notify',

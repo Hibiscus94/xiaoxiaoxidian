@@ -12,3 +12,10 @@ INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
 INFO: [ app_init ] --END-- [ RunTime:0.000029s ]
 NOTIC: [2] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' (this will throw an Error in a future version of PHP) /Users/mutou/Workspace/phpspace/wxapp/back/App/Api/Conf/config.php 第 24 行.
 
+[ 2018-05-31T20:14:14+08:00 ] 127.0.0.1 /Api/Index/index
+NOTIC: [2] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' (this will throw an Error in a future version of PHP) /Users/mutou/Workspace/phpspace/wxapp/back/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000034s ]
+NOTIC: [2] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' (this will throw an Error in a future version of PHP) /Users/mutou/Workspace/phpspace/wxapp/back/App/Api/Conf/config.php 第 24 行.
+
