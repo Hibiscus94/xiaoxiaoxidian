@@ -1,0 +1,168 @@
+[ 2018-05-31T19:48:58+08:00 ] 127.0.0.1 /index.php/Admin/Brand/add.html
+NOTIC: [2] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' (this will throw an Error in a future version of PHP) /Users/mutou/Workspace/phpspace/wxapp/back/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000021s ]
+ERR: 无法加载模块:D
+
+[ 2018-05-31T19:49:02+08:00 ] 127.0.0.1 /index.php/Admin/Product/add.html
+NOTIC: [2] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' (this will throw an Error in a future version of PHP) /Users/mutou/Workspace/phpspace/wxapp/back/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000004s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000017s ]
+ERR: 无法加载模块:T
+
+[ 2018-05-31T19:49:13+08:00 ] 127.0.0.1 /index.php/Admin/Zhuti/add.html
+NOTIC: [2] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' (this will throw an Error in a future version of PHP) /Users/mutou/Workspace/phpspace/wxapp/back/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000028s ]
+ERR: 无法加载模块:I
+
+[ 2018-05-31T19:49:14+08:00 ] 127.0.0.1 /index.php/Admin/Zhuti/add.html
+NOTIC: [2] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' (this will throw an Error in a future version of PHP) /Users/mutou/Workspace/phpspace/wxapp/back/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000004s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000017s ]
+ERR: 无法加载模块:I
+
+[ 2018-05-31T19:49:16+08:00 ] 127.0.0.1 /index.php/Admin/More/setup.html
+NOTIC: [2] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' (this will throw an Error in a future version of PHP) /Users/mutou/Workspace/phpspace/wxapp/back/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000018s ]
+ERR: 无法加载模块:Setup
+
+[ 2018-05-31T19:49:21+08:00 ] 127.0.0.1 /index.php/Admin/Index/index.html
+NOTIC: [2] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' (this will throw an Error in a future version of PHP) /Users/mutou/Workspace/phpspace/wxapp/back/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000004s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000020s ]
+ERR: 无法加载模块:Index
+
+[ 2018-05-31T19:49:21+08:00 ] 127.0.0.1 /favicon.ico
+NOTIC: [2] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' (this will throw an Error in a future version of PHP) /Users/mutou/Workspace/phpspace/wxapp/back/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000027s ]
+ERR: 无法加载模块:Favicon
+
+[ 2018-05-31T19:49:22+08:00 ] 127.0.0.1 /index.php/Admin/Index/index.html
+NOTIC: [2] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' (this will throw an Error in a future version of PHP) /Users/mutou/Workspace/phpspace/wxapp/back/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000017s ]
+ERR: 无法加载模块:Index
+
+[ 2018-05-31T19:49:27+08:00 ] 127.0.0.1 /index.php/Admin/Index/index.html
+NOTIC: [2] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' (this will throw an Error in a future version of PHP) /Users/mutou/Workspace/phpspace/wxapp/back/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000019s ]
+ERR: 无法加载模块:Index
+
+[ 2018-05-31T19:49:32+08:00 ] 127.0.0.1 /index.php/Admin/Page/adminindex.html
+NOTIC: [2] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' (this will throw an Error in a future version of PHP) /Users/mutou/Workspace/phpspace/wxapp/back/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000020s ]
+ERR: 无法加载模块:Index
+
+[ 2018-05-31T19:49:36+08:00 ] 127.0.0.1 /index.php/Admin/More/setup.html
+NOTIC: [2] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' (this will throw an Error in a future version of PHP) /Users/mutou/Workspace/phpspace/wxapp/back/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000047s ]
+ERR: 无法加载模块:Setup
+
+[ 2018-05-31T19:49:37+08:00 ] 127.0.0.1 /index.php/Admin/More/setup.html
+NOTIC: [2] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' (this will throw an Error in a future version of PHP) /Users/mutou/Workspace/phpspace/wxapp/back/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000004s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000017s ]
+ERR: 无法加载模块:Setup
+
+[ 2018-05-31T19:49:37+08:00 ] 127.0.0.1 /index.php/Admin/More/setup.html
+NOTIC: [2] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' (this will throw an Error in a future version of PHP) /Users/mutou/Workspace/phpspace/wxapp/back/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000016s ]
+ERR: 无法加载模块:Setup
+
+[ 2018-05-31T19:49:38+08:00 ] 127.0.0.1 /index.php/Admin/More/setup.html
+NOTIC: [2] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' (this will throw an Error in a future version of PHP) /Users/mutou/Workspace/phpspace/wxapp/back/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000031s ]
+ERR: 无法加载模块:Setup
+
+[ 2018-05-31T19:49:38+08:00 ] 127.0.0.1 /index.php/Admin/More/setup.html
+NOTIC: [2] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' (this will throw an Error in a future version of PHP) /Users/mutou/Workspace/phpspace/wxapp/back/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000017s ]
+ERR: 无法加载模块:Setup
+
+[ 2018-05-31T19:49:38+08:00 ] 127.0.0.1 /index.php/Admin/More/setup.html
+NOTIC: [2] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' (this will throw an Error in a future version of PHP) /Users/mutou/Workspace/phpspace/wxapp/back/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000024s ]
+ERR: 无法加载模块:Setup
+
+[ 2018-05-31T19:49:38+08:00 ] 127.0.0.1 /index.php/Admin/More/setup.html
+NOTIC: [2] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' (this will throw an Error in a future version of PHP) /Users/mutou/Workspace/phpspace/wxapp/back/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000019s ]
+ERR: 无法加载模块:Setup
+
+[ 2018-05-31T19:49:39+08:00 ] 127.0.0.1 /index.php/Admin/More/setup.html
+NOTIC: [2] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' (this will throw an Error in a future version of PHP) /Users/mutou/Workspace/phpspace/wxapp/back/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000024s ]
+ERR: 无法加载模块:Setup
+
+[ 2018-05-31T19:49:39+08:00 ] 127.0.0.1 /index.php/Admin/More/setup.html
+NOTIC: [2] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' (this will throw an Error in a future version of PHP) /Users/mutou/Workspace/phpspace/wxapp/back/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000004s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000017s ]
+ERR: 无法加载模块:Setup
+
+[ 2018-05-31T19:49:39+08:00 ] 127.0.0.1 /index.php/Admin/More/setup.html
+NOTIC: [2] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' (this will throw an Error in a future version of PHP) /Users/mutou/Workspace/phpspace/wxapp/back/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000026s ]
+ERR: 无法加载模块:Setup
+
+[ 2018-05-31T19:49:39+08:00 ] 127.0.0.1 /index.php/Admin/More/setup.html
+NOTIC: [2] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' (this will throw an Error in a future version of PHP) /Users/mutou/Workspace/phpspace/wxapp/back/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000018s ]
+ERR: 无法加载模块:Setup
+
+[ 2018-05-31T19:51:14+08:00 ] 127.0.0.1 /index.php/Admin/Page/adminindex.html
+NOTIC: [2] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' (this will throw an Error in a future version of PHP) /Users/mutou/Workspace/phpspace/wxapp/back/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000004s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000018s ]
+ERR: 无法加载模块:Index
+
+[ 2018-05-31T19:51:20+08:00 ] 127.0.0.1 /index.php/admin
+NOTIC: [2] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' (this will throw an Error in a future version of PHP) /Users/mutou/Workspace/phpspace/wxapp/back/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000004s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000017s ]
+ERR: 无法加载模块:NFO
+
+[ 2018-05-31T19:51:27+08:00 ] 127.0.0.1 /index.php/Admin
+NOTIC: [2] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' (this will throw an Error in a future version of PHP) /Users/mutou/Workspace/phpspace/wxapp/back/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000004s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000018s ]
+ERR: 无法加载模块:NFO
+
