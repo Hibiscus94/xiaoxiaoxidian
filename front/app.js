@@ -1,9 +1,9 @@
 App({
   d: {
-    hostUrl: 'http://www.wxapp.com',
-    appId:"",
-    appKey:"",
-    ceshiUrl:'http://www.wxapp.com',
+    hostUrl: 'http://wechat.cqlaojie.com',
+    appId:"wx381556a7d2197b3a",
+    appKey:"8b6947f83b2f2c90136bbf34fab09aef",
+    ceshiUrl:'http://wechat.cqlaojie.com',
   },
 
   onLaunch: function () {
