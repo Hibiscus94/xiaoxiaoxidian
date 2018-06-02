@@ -16,16 +16,22 @@ App({
   },
   getUserInfo:function(cb){
     var that = this
+    console.log('1🌶🌶🌶🌶🌶');
+    console.log(this.globalData.userInfo);
     if(this.globalData.userInfo){
+      console.log('2🌶🌶🌶🌶🌶');
       typeof cb == "function" && cb(this.globalData.userInfo)
     }else{
       //调用登录接口
       wx.login({
         success: function (res) {
           var code = res.code;
+          console.log('🌶🌶🌶🌶🌶');
+          console.log(res);
           //get wx user simple info
           wx.getUserInfo({
             success: function (res) {
+              console.log(res);
               that.globalData.userInfo = res.userInfo
               typeof cb == "function" && cb(that.globalData.userInfo);
               //get user sessionKey
@@ -53,6 +59,7 @@ App({
       success: function (res) {
         //--init data        
         var data = res.data;
+        console.log(res);
         if(data.status==0){
           wx.showToast({
             title: data.err,
@@ -90,7 +97,9 @@ App({
         'Content-Type':  'application/x-www-form-urlencoded'
       },
       success: function (res) {
-        //--init data        
+        //--init data
+        console.log('👌👌👌👌👌');  
+        console.log(res);
         var data = res.data.arr;
         var status = res.data.status;
         if(status!=1){

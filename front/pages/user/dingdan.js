@@ -131,6 +131,8 @@ recOrder:function(e){
 
   loadOrderList: function(){
     var that = this;
+    console.log('🌋🌋🌋🌋');
+    console.log(app);
     wx.request({
       url: app.d.ceshiUrl + '/Api/Order/index',
       method:'post',
