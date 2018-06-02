@@ -57,12 +57,14 @@ class BrandController extends PublicController{
 	*/
 	public function add(){
 		//如果是修改，则查询对应广告信息
+        $id = 0;
 		if (intval($_GET['id'])) {
 			$id = intval($_GET['id']);
 		
 			$brand_info = $this->Brand->where('id='.intval($id))->find();
 			$this->assign('brand_info',$brand_info);
 		}
+        $this->assign('id',$id);
 		$this->display();
 	}
 
