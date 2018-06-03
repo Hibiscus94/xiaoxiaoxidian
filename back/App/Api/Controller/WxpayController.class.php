@@ -45,14 +45,14 @@ class WxpayController extends Controller
 
         //②、统一下单
         $input = new \WxPayUnifiedOrder();
-        $input->SetBody("网易严选商品购买_" . trim($order_info['order_sn']));
-        $input->SetAttach("网易严选商品购买_" . trim($order_info['order_sn']));
+        $input->SetBody("小小西点商品购买_" . trim($order_info['order_sn']));
+        $input->SetAttach("小小西点商品购买_" . trim($order_info['order_sn']));
         $input->SetOut_trade_no($pay_sn);
         $input->SetTotal_fee(floatval($order_info['amount']) * 100);
         $input->SetTime_start(date("YmdHis"));
         $input->SetTime_expire(date("YmdHis", time() + 3600));
-        $input->SetGoods_tag("网易严选商品购买_" . trim($order_info['order_sn']));
-        $input->SetNotify_url('https://wechat.cqlaojie/Api/Wxpay/notify');
+        $input->SetGoods_tag("小小西点商品购买_" . trim($order_info['order_sn']));
+        $input->SetNotify_url('http://wechat.cqlaojie.com/Api/Wxpay/notify');
         $input->SetTrade_type("JSAPI");
         $input->SetOpenid($openId);
         $order = \WxPayApi::unifiedOrder($input);
