@@ -9,6 +9,6 @@ return array(
     'DB_HOST'               =>  '127.0.0.1',      //服务器地址
     'DB_NAME'               =>  'xiaoxiaoxidian',      //数据库名
     'DB_USER'               =>  'root',      //数据库用户名
-    'DB_PWD'                =>  '12345678',      //数据库密码
+    'DB_PWD'                =>  'Ly1009102873+1s',      //数据库密码
 
 );
