@@ -21,7 +21,7 @@ return array(
 	'LOG_TYPE'              =>  'File',
 	'LOG_LEVEL'             =>  'EMERG,ALERT,CRIT,ERR',
 	'LOG_EXCEPTION_RECORD'  =>  false,
-	LOAD_EXT_CONFIG => "functions",
+	'LOAD_EXT_CONFIG' => "functions",
 
 	'TMPL_PARSE_STRING'=>array(
 		'__DATA__'=>__ROOT__.'/Data'
@@ -32,7 +32,7 @@ return array(
     'weixin'=>array(
         'appid' =>'wx381556a7d2197b3a',//微信小程序appid
         'secret'=>'8b6947f83b2f2c90136bbf34fab09aef', //微信小程序secret
-        'mchid' => '1395927502',//小程序支付商户号
+        'mchid' => '1366014002',//小程序支付商户号
         'key' => 'Syxyx679KlfgYix7928sdDuv32kmCopH',//小程序支付KEY
         'notify_url'=>'http://www.wxapp.com/index.php/Api/Wxpay/notify',
     ),
