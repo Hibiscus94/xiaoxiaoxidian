@@ -3,7 +3,7 @@
 header("Content-Type:text/html; charset=utf-8");
 error_reporting(0);
 
-define('SELF_ROOT','http://www.wxapp.com/');
+define('SELF_ROOT','http://wechat.cqlaojie.com/');
 
 $urkn= SELF_ROOT."Data/app/";
 define('APP_URL',$urkn);
@@ -34,7 +34,7 @@ return array(
         'secret'=>'8b6947f83b2f2c90136bbf34fab09aef', //微信小程序secret
         'mchid' => '1366014002',//小程序支付商户号
         'key' => 'Syxyx679KlfgYix7928sdDuv32kmCopH',//小程序支付KEY
-        'notify_url'=>'http://www.wxapp.com/index.php/Api/Wxpay/notify',
+        'notify_url'=>'https://wechat.cqlaojie.com/index.php/Api/Wxpay/notify',
     ),
 );
 ?>
